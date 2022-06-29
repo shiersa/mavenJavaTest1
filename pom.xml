@@ -53,6 +53,14 @@
             <version>4.1.20.Final</version>
         </dependency>
 
+        <!-- EMQX -->
+        <dependency>
+            <groupId>org.eclipse.paho</groupId>
+            <artifactId>org.eclipse.paho.client.mqttv3</artifactId>
+            <version>1.2.2</version>
+        </dependency>
+
+
 
     </dependencies>
 
